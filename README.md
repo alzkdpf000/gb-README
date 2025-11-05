@@ -199,6 +199,9 @@ QA 테스트 문서를 작성하고 기능별 검증을 수행했습니다.
 
 <img width="922" height="577" alt="Image" src="https://github.com/user-attachments/assets/9bda25db-1a46-439f-8abe-aa35500f5c95" />
 
+
+<img width="658" height="212" alt="스크린샷 2025-10-29 오후 2 35 56" src="https://github.com/user-attachments/assets/ad77d8bc-0a57-4fb3-99e3-14af9abaa804" />
+
 ---
 
 ## 📱 앱 전환 (React Native + WebView)
