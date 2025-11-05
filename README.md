@@ -181,10 +181,11 @@
 
 -   버전을<code>implementation 'net.nurigo:sdk:4.3.0'</code>로 교체하고 해당 버전에 맞는 코드를 사용하니 정상적으로 작동하였습니다.
 
--   기존 코드
+
+-   기존 코드 <br>
     <img width="418" height="490" alt="Image" src="https://github.com/user-attachments/assets/d2f200d1-32ad-4ed1-8708-26b881f4014f" />
 
--   바뀐 코드
+-   바뀐 코드 <br>
     <img width="909" height="276" alt="Image" src="https://github.com/user-attachments/assets/3b8f2dde-c345-4e51-9c90-936841d77791" />
     <img width="911" height="443" alt="Image" src="https://github.com/user-attachments/assets/60133f85-e185-4c02-8db8-ada99fc4659a" />
 
