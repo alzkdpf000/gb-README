@@ -212,7 +212,10 @@ React Native  기반의 WebView 환경을 구현했습니다.
 
 ---
 
-## 인프라 구축구분(추가 예정)
+## ☁️ AWS 인프라 구성도
+
+<img width="2560" height="1440" alt="제목을 입력해주세요" src="https://github.com/user-attachments/assets/0bcd6a0a-0e33-44e1-be43-1470b5ec7b2c" />
+
 
 ---
 
