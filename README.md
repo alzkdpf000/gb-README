@@ -258,7 +258,7 @@ React Native  기반의 WebView 환경을 구현했습니다.
 사용자가 도메인으로 접속하면 Route 53이 DNS 역할을 수행해 첫 번째 EC2 인스턴스로 트래픽을 전달한다.
 ### 로드 밸런싱 (Nginx)
 첫 번째 EC2에서 동작 중인 Nginx가 로드 밸런서 역할을 수행하여
-부하를 분산한다. 부하 분산 전략 중 leat_conn 알고리즘을 사용하여 트래픽이 가장 적은 다른 EC2 서버로 요청을 분배한다.
+부하를 분산한다. 부하 분산 전략 중 least_conn 알고리즘을 사용하여 트래픽이 가장 적은 다른 EC2 서버로 요청을 분배한다.
 ### CI/CD 자동 배포 (GitHub Actions)
 개발자가 GitHub에 코드를 push하면
 GitHub Actions가 CI/CD 파이프라인을 실행하고
